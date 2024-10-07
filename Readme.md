@@ -1,5 +1,5 @@
 ## SCORPION-BOT-V3💫✔️
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=  Im+SCORPION+BOT+V3+Created+by+SCORPION-V3.&heart;++;Self-taught+Back-Created+By,;SCORPION-V3+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=  I'm+SCORPION+BOT+V3+Created+by+SCORPION-V3.&heart;++;Self-taught+Back-Created+By,;SCORPION-V3+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx">
  <img alt="SCORPION-BOT-V3😎" height="300" src="https://files.catbox.moe/0cxusf.jpg">
   
