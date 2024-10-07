@@ -1,12 +1,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕1 
+<p align="center">                                              SCORPION-BOT-𝐕3 
 
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/">
+  <a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx">
     <img alt=Support height="390" src="https://files.catbox.moe/0cxusf.jpg"> 
     </p>
  
