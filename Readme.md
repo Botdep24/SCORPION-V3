@@ -4,7 +4,7 @@
  <img alt="SCORPION-BOT-V3😎" height="300" src="https://files.catbox.moe/0cxusf.jpg">
   
 </h1> 
-<p align="center">l introduce <b>SCORPION-V3</b>, a  simple WhatsApp bot Created By DULLAH-MD</p>
+<p align="center">l introduce <b>SCORPION-V3</b>, a  simple WhatsApp bot Created By DULLAH MD</p>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{abdallahsalimjuma}/count.svg" alt="SCORPION V3 :: Visitor's Count" /></p>
