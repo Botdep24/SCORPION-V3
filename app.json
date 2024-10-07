@@ -1,10 +1,10 @@
 {
-  "name": "Scorpion 𝙱𝚘𝚝",
-  "description": " 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙻𝙾𝚛𝚍 Dullah.",
+  "name": "SCORPION-BOT-V3",
+  "description": " 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙻𝙾𝚛𝚍 DULLAH-MD.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/abdallahsalimjuma/SCORPION-BOT",
+  "repository": "https://github.com/abdallahsalimjuma/SCORPION-V3",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
