@@ -19,7 +19,7 @@ export const TelegraPh = async (path) => {
         },
         data: form
       });
-      resolve("https://telegra.ph" + data[0].src);
+      resolve("https://files.catbox.moe/0cxusf.jpg" + data[0].src);
     } catch (err) {
       reject(new Error(String(err)));
     }
