@@ -1,7 +1,7 @@
-## Dullah Md V2💫✔️
+## SCORPION-BOT-V3💫✔️
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+Md+Created+by+Dullah.&heart;++;Self-taught+Back-Created+By,;Dullah sir+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx">
- <img alt="Dullah Md😎" height="300" src="https://telegra.ph/file/bb24465612098159bb5a9.jpg">
+ <img alt="Dullah Md😎" height="300" src="https://files.catbox.moe/0cxusf.jpg">
   
 </h1> 
 <p align="center">l introduce <b>Dullah-Md</b>, a  simple WhatsApp bot Created By Dulla</p>
@@ -44,7 +44,7 @@ href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.i
 
 
 
-## HOW TO DEPLOY DULLAH MD V2🍃
+## HOW TO DEPLOY SCORPION V3🍃
 
 
 ## 1.FIRST STEP 
@@ -98,7 +98,7 @@ CONTACT DEVELOPER ON WHATSAPP
 
 ## License
 
-The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot SCORPION V3💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 💫THANK YOU FOR CHOOSING Dullah Md💫
