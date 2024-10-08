@@ -1,23 +1,23 @@
 ## SCORPION-BOT-V3💫✔️
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+Md+Created+by+Dullah.&heart;++;Self-taught+Back-Created+By,;Dullah sir+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+SCORPION-V3+Created+by+Dullah-Md.&heart;++;Self-taught+Back-Created+By,;Dullah sir+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx">
  <img alt="Dullah Md😎" height="300" src="https://files.catbox.moe/0cxusf.jpg">
   
 </h1> 
-<p align="center">l introduce <b>Dullah-Md</b>, a  simple WhatsApp bot Created By Dulla</p>
+<p align="center">l introduce <b>SCORPION-V3</b>, a  simple WhatsApp bot Created By Dullah-Md</p>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{abdallahsalimjuma}/count.svg" alt="Dullah Md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{abdallahsalimjuma}/count.svg" alt="SCORPION-V3 :: Visitor's Count" /></p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/abdallahsalimjuma/Dullah_Md"><b>Dullah Md</b></a> Support Deploy On...
+  <a href="https://github.com/abdallahsalimjuma/SCORPION-V3"><b>Dullah Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/abdallahsalimjuma/Dullah_Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/Dullah_Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/abdallahsalimjuma/SCORPION-V3/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/SCORPION-V3/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
