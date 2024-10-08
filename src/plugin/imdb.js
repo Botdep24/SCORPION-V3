@@ -21,7 +21,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     }
 
     imdbt += "⚍⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚍\n";
-    imdbt += " ```SCORPION BOT MOVIE SEARCH```\n";
+    imdbt += " ```SCORPION V3 MOVIE SEARCH```\n";
     imdbt += "⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n";
     imdbt += `🎬Title      : ${fids.data.Title}\n`;
     imdbt += `📅Year       : ${fids.data.Year}\n`;
