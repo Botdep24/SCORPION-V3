@@ -10,7 +10,7 @@
     "restart": "pm2 restart Mercedes"
   },
   "keywords": ["Mercedes", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Marisel",
+  "author": "Dullah",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
