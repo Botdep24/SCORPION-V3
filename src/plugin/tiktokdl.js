@@ -76,13 +76,13 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
             },
             interactiveMessage: proto.Message.InteractiveMessage.create({
               body: proto.Message.InteractiveMessage.Body.create({
-                text: `𝙻𝚘𝚛𝚍 𝚓𝚘𝚎𝚕 TikTok Download\n\nTitle: ${currentResult.data.title}\nAuthor: ${currentResult.data.author.nickname}\nViews: ${currentResult.data.view}\nDuration: ${currentResult.data.duration}s\n`
+                text: `𝙻𝚘𝚛𝚍 Scorpion TikTok Download\n\nTitle: ${currentResult.data.title}\nAuthor: ${currentResult.data.author.nickname}\nViews: ${currentResult.data.view}\nDuration: ${currentResult.data.duration}s\n`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "© 𝙻𝚘𝚛𝚍 𝚓𝚘𝚎𝚕"
+                text: "© 𝙻𝚘𝚛𝚍 Scorpion v3"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
-                 ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/fbbe1744668b44637c21a.jpg` } }, { upload: Matrix.waUploadToServer })),
+                 ...(await prepareWAMessageMedia({ image: { url: `https://files.catbox.moe/0cxusf.jpg` } }, { upload: Matrix.waUploadToServer })),
                 title: "",
                 gifPlayback: true,
                 subtitle: "",
@@ -137,9 +137,9 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
           const fileSizeInMB = finalMediaBuffer.length / (1024 * 1024);
 
           if (type === 'video' && fileSizeInMB <= 300) {
-            content = { video: finalMediaBuffer, mimetype: 'video/mp4', caption: '> 𝙻𝚘𝚛𝚍 𝚓𝚘𝚎𝚕' };
+            content = { video: finalMediaBuffer, mimetype: 'video/mp4', caption: '> 𝙻𝚘𝚛𝚍 Scorpion' };
           } else if (type === 'audio' && fileSizeInMB <= 300) {
-            content = { audio: finalMediaBuffer, mimetype: 'audio/mpeg', caption: '> 𝙻𝚘𝚛𝚍 𝚓𝚘𝚎𝚕' };
+            content = { audio: finalMediaBuffer, mimetype: 'audio/mpeg', caption: '> 𝙻𝚘𝚛𝚍 Scorpion' };
           }
 
           await Matrix.sendMessage(m.from, content, { quoted: m });
