@@ -68,7 +68,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
                                 text: `Generated Temporary Email: ${tempEmail}`
                             }),
                             footer: proto.Message.InteractiveMessage.Footer.create({
-                                text: "© Powered By Mercedes"
+                                text: "© Powered By Dullah Md"
                             }),
                             header: proto.Message.InteractiveMessage.Header.create({
                                 title: "Temporary Email",
@@ -156,7 +156,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
                                 text: inboxMessages
                             }),
                             footer: proto.Message.InteractiveMessage.Footer.create({
-                                text: "© Powered By Mercedes"
+                                text: "© Powered By Dullah md"
                             }),
                             header: proto.Message.InteractiveMessage.Header.create({
                                 title: "",
